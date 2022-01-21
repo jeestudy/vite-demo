@@ -1,0 +1,20 @@
+
+# ################################################  前端  ###################
+# [npm包管理依赖]
+node_modules/
+
+# [dist目录]
+dist/
+
+# [HBuilderX  编译目录 ]
+.hbuilderx
+unpackage/
+
+# [vscode IDE]
+.vscode/
+
+# [package-lock.json。 已放开，请添加到假定未更改文件 ]
+# package-lock.json
+/jeepay-ui-uapp-merchant/node_modules/
+#vscode的history文件
+.history/
